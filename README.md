@@ -1,2 +1,7 @@
-# ProcessWatcherDemo
-一个简单的进程查看器，WPF+Prism+MaterialDesign
+# 进程查看器
+
+## 使用到的知识点
+
+简单的数据获取和查看，然后绑定到前端UI空间；
+
+点击对应的按钮触发对应的事件展示对应的数据；
